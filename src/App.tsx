@@ -87,11 +87,11 @@ function App() {
       <main>
         <section className="hero" id="home">
           <div className="hero-copy">
-            <p className="eyebrow">Entry-Level SaaS SDR / BDR Portfolio</p>
-            <h1>
-              Entry-Level SaaS Sales Candidate | BBA Marketing | Salesforce
-              Trailhead + Buyer-Centric Prospecting
-            </h1>
+            <p className="eyebrow">ENTRY-LEVEL SAAS SDR / BDR PORTFOLIO</p>
+            <h1>Entry-Level SaaS SDR/BDR Candidate</h1>
+            <p className="hero-subtitle">
+              BBA Marketing • Buyer-Centric Prospecting • Salesforce Trailhead
+            </p>
             <p className="hero-intro">
               I help sales teams research target accounts, understand buyer
               pain, create relevant outbound messaging, and build qualified
