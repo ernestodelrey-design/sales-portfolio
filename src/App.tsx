@@ -436,8 +436,8 @@ function App() {
             <a href="mailto:ernstdelrey@gmail.com">
               Email: ernstdelrey@gmail.com
             </a>
-            <a href="https://www.linkedin.com/in/ernesto-del-rey" target="_blank" rel="noreferrer">
-              LinkedIn: linkedin.com/in/ernesto-del-rey
+            <a href="https://www.linkedin.com/in/ernest-del-rey/" target="_blank" rel="noreferrer">
+              LinkedIn: linkedin.com/in/ernest-del-rey
             </a>
           </div>
         </section>
@@ -518,13 +518,3 @@ function RampCard({
   );
 }
 
-function PipelineStage({ stage, detail }: { stage: string; detail: string }) {
-  return (
-    <article className="pipeline-stage">
-      <span>{stage}</span>
-      <p>{detail}</p>
-    </article>
-  );
-}
-
-export default App;
