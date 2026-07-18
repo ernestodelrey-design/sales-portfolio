@@ -69,10 +69,10 @@ function App() {
   return (
     <div className="site-shell">
       <header className="topbar">
-        <a className="brand" href="#home" aria-label="Ernesto Del Rey home">
+        <a className="brand" href="#home" aria-label="Ernest Del Rey home">
           <span className="brand-mark">ED</span>
           <span>
-            Ernesto Del Rey
+            Ernest Del Rey
             <small>SaaS SDR / BDR Candidate</small>
           </span>
         </a>
@@ -265,7 +265,7 @@ function App() {
             <SequenceItem
               day="Day 7"
               title="Voicemail script"
-              body="Hi Jordan, this is Ernesto. I reached out because your sales hiring caught my attention, and Gong often helps growing teams improve coaching visibility and pipeline consistency. I will send a short email as well."
+              body="Hi Jordan, this is Ernest. I reached out because your sales hiring caught my attention, and Gong often helps growing teams improve coaching visibility and pipeline consistency. I will send a short email as well."
             />
             <SequenceItem
               day="Day 10"
