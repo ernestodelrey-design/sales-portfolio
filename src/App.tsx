@@ -518,3 +518,13 @@ function RampCard({
   );
 }
 
+function PipelineStage({ stage, detail }: { stage: string; detail: string }) {
+  return (
+    <article className="pipeline-stage">
+      <span>{stage}</span>
+      <p>{detail}</p>
+    </article>
+  );
+}
+
+export default App;
